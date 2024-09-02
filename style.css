@@ -1,0 +1,57 @@
+.body{
+    background: rgb(30, 30, 30);
+}
+
+.container{
+    height: 90vh;
+}
+
+.card{
+    font-size: 1.4rem;
+    background-color: white;
+    font-weight: bold;
+    padding : 1rem 1.5rem;
+    margin-bottom: 1rem;
+    border-radius: 1rem;
+}
+
+.action{
+    display: grid;
+    grid-template-columns: auto auto;
+    
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+td, th {
+    padding: 8px;
+    border: 1px solid black;
+}
+th {
+    background-color: lightgray;
+}
+
+button{
+    width: 40%;
+    background-color: aqua;
+    border: none;
+    border-radius: 2px;
+}
+
+.icon {
+    height: 30px;
+    width: 30px;
+}
+
+.icon-area{
+    margin-left: 50px;
+}
+
+.header{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+
